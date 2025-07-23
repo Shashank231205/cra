@@ -1,0 +1,7 @@
+Timestamp,Label,Confidence,Action
+2025-07-23 14:42:05.146047,Organic,84.9,Diverter activated - not electrostatic
+2025-07-23 14:44:51.987486,Metal,82.09,Voltage set to 8kV
+2025-07-23 14:44:52.975722,Organic,90.16,Diverter activated - not electrostatic
+2025-07-23 14:44:53.575575,Plastic,87.45,Voltage set to 5kV
+2025-07-23 14:44:54.056296,Metal,80.03,Voltage set to 8kV
+2025-07-23 14:47:48.027555,Plastic,86.2,Voltage set to 5kV
